@@ -36,4 +36,9 @@ Download and replace the MP_GameStateManager.gd file I made to the unpacked dire
 
 Finally, repackage your source code
 
-Note: Please split the packaging exe and do not integrate it
+Note: Please split the packaging exe and do not integrate it.
+
+Note: This project is only applicable to the current host, and the user needs to create the host himself to take effect, and it will be invalid if you join someone else's server.
+Press the Q key to use the cheat feature
+
+
