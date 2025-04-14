@@ -24,4 +24,16 @@ func _input(event):
 			for property in instance_handler.instance_property_array:
 				if property.socket_number == MAIN_active_current_turn_socket:
 					property.dialogue.ShowText_ForDuration(shellStr, 3)
+```
+Put the code after line 89 in the ".\multiplayer\scripts\global scripts\MP_GameStateManager.gd" file
 
+<img width="916" alt="image" src="https://github.com/user-attachments/assets/27ac4893-8ef5-4c32-b312-523995b8c63d" />
+
+Then save it
+
+## Lazy approach
+Download and replace the MP_GameStateManager.gd file I made to the unpacked directory ".\multiplayer\scripts\global scripts"
+
+Finally, repackage your source code
+
+Note: Please split the packaging exe and do not integrate it
