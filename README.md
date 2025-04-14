@@ -1,7 +1,10 @@
 # Buckshot-Roulette-Online-cheating
 This item is used to implement cheats in Buckshot Roulette multiplayer mode to see the current remaining bullet types. The project is similar to https://github.com/Lou1sL/BuckshotRouletteClairvoyance
 。
+Note: Please split the packaging exe and do not integrate it.
 
+Note: This project is only applicable to the current host, and the user needs to create the host himself to take effect, and it will be invalid if you join someone else's server.
+Press the Q key to use the cheat feature
 Of course, we will use Godot unpacking tool Godot PCK Explorer to unpack, https://github.com/DmitriySalnikov/GodotPCKExplorer
 
 ```GDScript
@@ -35,10 +38,5 @@ Then save it
 Download and replace the MP_GameStateManager.gd file I made to the unpacked directory ".\multiplayer\scripts\global scripts"
 
 Finally, repackage your source code
-
-Note: Please split the packaging exe and do not integrate it.
-
-Note: This project is only applicable to the current host, and the user needs to create the host himself to take effect, and it will be invalid if you join someone else's server.
-Press the Q key to use the cheat feature
 
 
