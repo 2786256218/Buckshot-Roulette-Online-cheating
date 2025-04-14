@@ -5,7 +5,8 @@ Note: Please split the packaging exe and do not integrate it.
 
 Note: This project is only applicable to the current host, and the user needs to create the host himself to take effect, and it will be invalid if you join someone else's server.
 Press the Q key to use the cheat feature
-Of course, we will use Godot unpacking tool Godot PCK Explorer to unpack, https://github.com/DmitriySalnikov/GodotPCKExplorer
+
+Get back on track, we will use Godot unpacking tool Godot PCK Explorer to unpack, https://github.com/DmitriySalnikov/GodotPCKExplorer
 
 ```GDScript
 var mouse_pos
