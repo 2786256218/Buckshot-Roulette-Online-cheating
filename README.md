@@ -1,6 +1,5 @@
 # Buckshot-Roulette-Online-cheating
-This item is used to implement cheats in Buckshot Roulette multiplayer mode to see the current remaining bullet types. The project is similar to https://github.com/Lou1sL/BuckshotRouletteClairvoyance
-。
+This item is used to implement cheats in Buckshot Roulette multiplayer mode to see the current remaining bullet types. The project is similar to https://github.com/Lou1sL/BuckshotRouletteClairvoyance.
 
 Note: Please split the packaging exe and do not integrate it.
 
