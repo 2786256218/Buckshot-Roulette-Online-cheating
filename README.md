@@ -35,3 +35,7 @@ Select twice, the first time for the exe file you want to split and the second t
 At this point, you can delete the split pck file and replace the previously packaged pck file. Note that the pck file and the exe file must be placed in the same directory, and both must be named Buckshot Roulette
 
 At this point, the cheat function is implemented, just put the two binaries back in the root directory of the game
+
+## A little trouble
+
+The modified exe file needs to be launched with steam, and if you click on the exe directly to start, the invite friend function will become invalid
