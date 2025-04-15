@@ -9,6 +9,10 @@ Press the Q key to use the cheat feature
 
 Get back on track, we will use Godot unpacking tool Godot PCK Explorer to unpack, https://github.com/DmitriySalnikov/GodotPCKExplorer
 
+Godot PCK Explorer Procedure
+
+https://github.com/2786256218/Buckshot-Roulette-Online-cheating/blob/Introduce/README.md
+
 ```GDScript
 var mouse_pos
 func _input(event):
