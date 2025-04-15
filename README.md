@@ -42,3 +42,4 @@ Download and replace the MP_GameStateManager.gd file I made to the unpacked dire
 Finally, repackage your source code
 
 
+### If the above method doesn't work, go to Releases and download my packaged binary
