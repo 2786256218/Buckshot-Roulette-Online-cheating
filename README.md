@@ -1,4 +1,7 @@
 # Procedure introduction
+
+[中文](https://github.com/2786256218/Buckshot-Roulette-Online-cheating/blob/Introduce/README_CN.md)
+
 Download Godot PCK Explorer
 https://github.com/DmitriySalnikov/GodotPCKExplorer/releases/download/1.5.3/GodotPCKExplorer_1.5.3_dotnet-ui-console-win-linux-mac.zip
 
